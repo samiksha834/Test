@@ -1,0 +1,34 @@
+.wrapper{
+	height: 800px;
+	width: 800px
+}
+​
+.box{
+	height: 50%;
+	width: 50%;
+	background: pink;
+	box-sizing: border-box;
+	float: left;
+}
+.a{
+	padding-right: 1em;
+	padding-bottom: 1em;
+}
+​
+.b{
+	padding-left: 1em;
+	padding-bottom: 1em;
+}
+.c{
+	padding-right: 1em;
+	padding-top: 1em;
+}
+.d{
+	padding-left: 1em;
+	padding-top: 1em;
+}
+.con{
+	width: 100%;
+	height: 100%;
+	background: green;
+}
